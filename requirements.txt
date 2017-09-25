@@ -100,7 +100,6 @@ pyparsing
 pytest 
 python-dateutil 
 pytz 
-pywin32 
 PyYAML 
 pyzmq 
 QtAwesome 
