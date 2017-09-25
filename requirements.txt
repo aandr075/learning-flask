@@ -108,7 +108,7 @@ QtAwesome
 qtconsole 
 QtPy 
 requests 
-rope-py3k post1
+rope-py3k
 scikit-image 
 scikit-learn 
 scipy 
