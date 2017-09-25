@@ -60,7 +60,6 @@ locket
 lxml 
 MarkupSafe 
 matplotlib 
-menuinst==1.4.4 
 mistune 
 mpmath 
 multipledispatch 
